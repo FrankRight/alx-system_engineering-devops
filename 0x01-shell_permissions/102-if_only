@@ -1,0 +1,8 @@
+#!/bin/bash
+name="guillaume"
+comm=$(stat -c '%U' hello)
+
+if [ "$comm" = "$name" ]
+    then
+        sudo chown betty hello
+fi
