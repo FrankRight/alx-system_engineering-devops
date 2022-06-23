@@ -1,8 +1,9 @@
 #!/bin/bash
-name="guillaume"
-comm=$(stat -c '%U' hello)
+# name="guillaume"
+# comm=$(stat -c '%U' hello)
 
-if [ "$comm" = "$name" ]
-    then
-        sudo chown betty hello
-fi
+# if [ "$comm" = "$name" ]
+#     then
+#         sudo chown betty hello
+# fi
+chown --from=guillaume betty hello
