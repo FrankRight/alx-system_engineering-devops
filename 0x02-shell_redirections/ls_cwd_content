@@ -1,0 +1,14 @@
+total 48
+drwxr-xr-x 2 frank frank 4096 Jun 27 13:07 .
+drwxr-xr-x 7 frank frank 4096 Jun 27 12:11 ..
+-rwxr-xr-x 1 frank frank   32 Jun 27 12:25 0-hello_world
+-rwxr-xr-x 1 frank frank   28 Jun 27 12:20 1-confused_smiley
+-rwxr-xr-x 1 frank frank   28 Jun 27 12:27 2-hellofile
+-rwxr-xr-x 1 frank frank   39 Jun 27 12:29 3-twofiles
+-rwxr-xr-x 1 frank frank   33 Jun 27 12:39 4-lastlines
+-rwxr-xr-x 1 frank frank   33 Jun 27 12:41 5-firstlines
+-rwxr-xr-x 1 frank frank   41 Jun 27 12:50 6-third_line
+-rwxr-xr-x 1 frank frank   79 Jun 27 13:01 7-file
+-rwxr-xr-x 1 frank frank   13 Jun 27 13:02 8-cwd_state
+-rw-r--r-- 1 frank frank   29 Jun 27 12:06 README.md
+-rw-r--r-- 1 frank frank    0 Jun 27 13:07 ls_cwd_content
